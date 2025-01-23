@@ -1,5 +1,5 @@
 ## 👋Hey there, i am Natalia👩‍💻
-###About me😊
+####About me😊
 - I am a current student of Computer Science at Buenos Aires University.
 
 - So far, I have learned about algorithms and data structures through various programming languages like Java, Python, and Haskell.
@@ -13,7 +13,7 @@ Here, you’ll find some of the projects I’ve worked on related to this, as we
 
 For more, feel free to visit my GitLab: [link].
 
-###Here you will find...🤔
+####Here you will find...🤔
 - Projects that I've worked on, which are related to what I mentioned before.
 
 - Systems Analysis and Design Projects.
