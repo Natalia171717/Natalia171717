@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋Hey there, i am Natalia👩‍💻
+###About me😊
+- I am a current student of Computer Science at Buenos Aires University.
 
-<!--
-**Natalia171717/Natalia171717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- So far, I have learned about algorithms and data structures through various programming languages like Java, Python, and Haskell.
 
-Here are some ideas to get you started:
+- I am constantly learning new things I am passionate about. Right now, I am learning SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- In addition to coding, I have a deep love for music. I play violin and piano.
+
+Here, you’ll find some of the projects I’ve worked on related to this, as well as other things I focus on, like system analysis.
+
+
+For more, feel free to visit my GitLab: [link].
+
+###Here you will find...🤔
+- Projects that I've worked on, which are related to what I mentioned before.
+
+- Systems Analysis and Design Projects.
+
+- For more, feel free to visit my [GitLab](https://git.exactas.uba.ar/nprestrepo).
