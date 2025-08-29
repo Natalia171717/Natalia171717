@@ -20,5 +20,3 @@
 ### Here you will find...🤔
 
 - Projects that I've worked on, which are related to what I mentioned before.
-
-- Systems Analysis and Design Projects.
